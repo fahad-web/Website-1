@@ -10,6 +10,6 @@ $conobj=$mydb->Opencon();
 $result=$mydb->Deletedata($conobj,'admin',$getId);
 if($result== TRUE)
 {
-    header("location:Admindata.php");
+    header("location:Admindata.php?usersearch");
 }
 ?>

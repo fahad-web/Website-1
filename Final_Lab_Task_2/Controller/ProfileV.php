@@ -18,7 +18,7 @@ include("../Model/mysql.php");
 
     if(isset($_POST["pbtn"]))
     {
-      header("location:../View/Admindata.php"); 
+      header("location:../View/Admindata.php?usersearch"); 
     }
     if(isset($_POST["edbtn"]))
     {
