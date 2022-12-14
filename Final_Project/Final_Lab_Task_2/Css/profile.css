@@ -1,0 +1,104 @@
+.img{
+    
+    width: 50px;
+    height: 50px;
+}
+.webname h1{
+    margin: 0;
+}
+.webname h4{
+    margin: 0;
+}
+.webname{
+    text-align: center;
+    color: black;
+    padding: 24px 0;
+    background-color: aliceblue;
+
+}
+.headersec ul li a{
+    text-decoration: none;
+    color: white;
+    transition: .4s;
+    font-size: 20px;
+    margin-top: 3px;
+}
+.headersec ul li a:hover{
+    
+    color: rgb(243, 44, 44);
+}
+.headersec{
+    background-color: blueviolet;
+    padding: 20px 0;
+    
+}
+.headersec ul{
+    list-style: none;
+    display: flex;
+    margin: 0 0;
+}
+.headersec ul li{
+    margin-right: 20px;
+    display: inline-block;
+    display: flex;
+
+}
+.rgform{
+    text-align: center;
+    display: block;
+    background-color: aqua;
+    padding: 15px 0;
+    margin-top: -6px;
+}
+.cn{
+    text-align: center;
+    border: 1px solid #e90c0c;
+    background-color: #14ad8e;
+    color: wheat;
+    margin-left: 131px;
+}
+.cov{
+    background-color: #147ead;
+}
+.log{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 43px;
+    margin-inline-start: auto;
+}
+.logg{
+    color: white;
+    font-size: 20px;
+    margin-left: 830px;
+    margin-top: 4px;
+}
+.log i {
+    margin-left: 5px;
+    margin-top: 3px;
+    font-size: 22px;
+}
+.serch {
+    text-align: center;
+    margin-top: 15px;
+    margin-right: 40px;
+    font-size: 16px;
+}
+.sr{
+    position: relative;
+    font-size: 20px;
+}
+
+.fedback{
+    position: absolute;
+    content: "";
+    margin-top: -11px;
+    left: 0;
+    right: 0;
+    margin-left: 72px;
+}
+a .yy{
+    padding: 30px;
+    color: white;
+}

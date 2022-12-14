@@ -1,0 +1,84 @@
+body,p,span{
+    font-family:'Roboto',sans-serif;
+}
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Rubik',sans-serif;
+}
+
+.webname{
+    text-align: center;
+    color: black;
+    padding: 25px 0;
+    background-color: antiquewhite;
+    
+}
+.webname h2{
+    margin: 0;
+}
+.webname h3{
+    margin: 0;
+}
+.l-info{
+    text-align: center;
+    display: orange;
+    background-color: cornsilk;
+    padding: 20px 0;
+    margin-top: -6px;
+}
+.logform{
+    width: 420px;
+    height: 400px;
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-left: 45px;
+    padding-right: 25px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color: rgb(190, 151, 103);
+    box-shadow: 7px 20px 35px -4px rgba(220, 114, 114, 0.75);
+}
+.login{
+    text-align: center;
+    display: block;
+    background-color: darkgray;
+    padding: 15px 0;
+    margin-top: -6px;
+}
+.universal{
+    background-image: url(login.jpg);
+    padding-bottom: 150px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.nm{
+    display: block;
+    margin-bottom: 10px;
+    
+}
+.log-btn{
+    margin-left: 80px;
+    margin-top: 20px;
+    display: block;
+
+}
+.man-regi{
+    margin-left: 108px;
+    font-size: 14px;
+    margin-top: 15px;
+    font-size: 15;
+}
+
+.btn-primary{
+    padding: 7px 100px;
+    transition: .4s;
+    background-color: burlywood;
+}
+.btn-primary:hover
+{
+    background-color: black;
+    color:white;
+    border-color: black;
+}

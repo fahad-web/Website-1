@@ -1,0 +1,133 @@
+body,p,span{
+    font-family: 'Roboto', sans-serif;
+}
+h1,h2,h3,h4,h5,h6,a{
+    font-family: 'Rubik', sans-serif;
+}
+.regForm{
+    width: 400px;
+    height: 440px;
+    
+    left: 0;
+    right: 0;
+    margin: auto;
+    padding-left: 40px;
+    padding-top: 30px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(245, 245, 245);
+    box-shadow: 7px 7px 35px -4px rgba(0,0,0,0.75);
+}
+.log{
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 50%;
+    margin-right: 43px;
+    margin-inline-start: auto;
+}
+.logg{
+    color: white;
+    font-size: 20px;
+    margin-left: 830px;
+    margin-top: 4px;
+}
+.log i {
+    margin-left: 5px;
+    margin-top: 3px;
+    font-size: 22px;
+}
+.tto{
+    width: 40px;
+    height: 40px;
+
+}
+.kk{
+    margin-left: 100px;    
+    display: block;
+    margin-top: 15px;
+    font-size: 15px;
+}
+.jj{
+    
+    display: block;
+    margin-bottom: 8px;
+
+}
+.subbtn{
+    margin-left: 80px;
+    margin-top: 20px;
+    display: block;
+}
+.btn-primary{
+    padding: 7px 100px;
+    transition: .4s;
+    background-color:springgreen;
+    
+}
+.btn-primary:hover{
+    background-color: #000000 !important;
+    color: white;
+    border-color: #000000 !important;
+}
+
+.text-denger{
+    color: red;
+    font-size: 13px;
+    margin: 0;
+}
+.rgform{
+    text-align: center;
+    display: block;
+    background-color: aqua;
+    padding: 15px 0;
+    margin-top: -6px;
+}
+.headersec ul li a{
+    text-decoration: none;
+    color: white;
+    transition: .4s;
+}
+.headersec ul li a:hover{
+    letter-spacing: 1.4px;
+    color: rgb(8, 7, 7);
+}
+.headersec{
+    background-color: blueviolet;
+    padding: 20px 0;
+    
+}
+.headersec ul{
+    list-style: none;
+    display: flex;
+    margin: 0 0;
+}
+.headersec ul li{
+    margin-right: 20px;
+    display: inline-block;
+
+}
+.webname{
+    text-align: center;
+    color: black;
+    padding: 24px 0;
+    background-color: aliceblue;
+
+}
+.webname h1{
+    margin: 0;
+}
+.webname h4{
+    margin: 0;
+}
+.col-lg-120{
+    background-image: url(hh.jpg);
+    padding-bottom: 150px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+.fileup{
+    
+}

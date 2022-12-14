@@ -1,0 +1,12 @@
+.webname{
+    text-align: center;
+    color: black;
+    padding: 24px 0;
+    background-color: beige;
+}
+.webname h1{
+    margin: 0;
+}
+.webname h5{
+    margin: 0;
+}
